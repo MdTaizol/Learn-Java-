@@ -1,0 +1,6 @@
+/**
+ * stu
+ */
+public record stu() {
+
+}
